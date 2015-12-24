@@ -1,5 +1,6 @@
 ###WebCollector教程列表
 
++ [JAVA爬虫WebCollector 2.x入门教程——基本概念](http://datahref.com/book/article.php?article=webcollector_2x_intro)
 + [WebCollector教程——在Eclipse项目中配置使用WebCollector爬虫](http://datahref.com/book/article.php?article=wc_tutor_eclipse)
 + [WebCollector教程——爬取搜索引擎](http://datahref.com/book/article.php?article=webcollector_BingSearch)
 + [WebCollector教程——爬取新浪微博](http://datahref.com/book/article.php?article=webcollector_WeiboCrawler)
