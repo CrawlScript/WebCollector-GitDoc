@@ -7,5 +7,5 @@
 + [WebCollector设置代理](http://datahref.com/book/article.php?article=webcollector_proxy)
 + [WebCollector网页正文提取](http://datahref.com/book/article.php?article=webcollector_content_extraction)
 + [WebCollector爬取JS加载的数据](http://datahref.com/book/article.php?article=webcollector_selenium)
-+ [WebCollector分布式爬取](http://datahref.com/book/article.php?article=webcollector_nutch_intro)
++ [WebCollector分布式爬取](http://datahref.com/book/article.php?article=webcollector_hadoop_intro)
 + [Lazy爬虫配置教程](http://datahref.com/book/article.php?article=lazy_config)
