@@ -39,7 +39,7 @@ WebCollector 2.x版本特性：
 
 
 ###教程
-[WebCollector 2.x教程列表](https://github.com/CrawlScript/WebCollector-GitDoc/tree/master/doc)
+[WebCollector 2.x教程列表](http://www.oschina.net/p/webcollector)
 
 
 
